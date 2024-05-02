@@ -1,0 +1,16 @@
+ 
+ 
+ .component1{
+    height: 10vh;
+    width: 80vw;
+    background-color: white;
+    padding: 2em;
+    margin: 0 auto;
+ }
+
+ .btn{
+    padding: 10px 20px;
+    background-color: red;
+    border: none;
+    
+ }
